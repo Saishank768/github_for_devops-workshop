@@ -6,6 +6,6 @@ git rm --cache testing.py
 git commit -m "added testing file"
 rm testing.py
 git restore testing.py
-git remote set-url origin https://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@github.com/Saishank768/github_for_devops-wor... 
+git remote set-url origin https://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@github.com/Saishank768/github_for_devops-wor
 git remote -v
-  
+  git bash
